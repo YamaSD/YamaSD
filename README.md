@@ -48,10 +48,13 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=YamaSD&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaSD&layout=compact&theme=radical" alt="Top Languages" />
+   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=YamaSD&margin-w=15&theme=buddhism" alt="GitHub Trophies" />
+  </p>
+  
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=YamaSD&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaSD&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
